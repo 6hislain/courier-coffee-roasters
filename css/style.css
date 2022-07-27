@@ -100,3 +100,8 @@ a:hover {
   right: 30px;
   z-index: 99;
 }
+
+.item {
+  max-height: 263px;
+  overflow-y: hidden;
+}
